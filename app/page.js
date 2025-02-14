@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect, useRef, Suspense } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useSearchParams, useRouter } from "next/navigation";
 import styles from "./page.module.css";
@@ -60,8 +60,16 @@ const buttonVariants = {
   },
   tap: { scale: 0.95 },
 };
+// Assuming your main content is in this component
 
-export default async function Page() {
+export default function Page() {
+  return (
+    <Suspense fallback={<div>Loading...</div>}>
+      <PageContent />
+    </Suspense>
+  );
+}
+function PageContent() {
   const searchParams = useSearchParams();
   const router = useRouter();
   const [lang, setLang] = useState("en"); // Default language is English
