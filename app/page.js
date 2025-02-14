@@ -270,7 +270,7 @@ export default function Page() {
                 {lang === "ko" ? "다시 시작" : "Restart"}
               </motion.button>
               <a
-                href="https://open.spotify.com/playlist/YOUR_PLAYLIST_ID"
+                href="https://open.spotify.com/playlist/6AwKcpc0o2Alpe4yo7bi3b?si=c6802cfce9cd402cD"
                 target="_blank"
                 rel="noopener noreferrer"
                 className={styles.playlistLink}
