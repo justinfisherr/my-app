@@ -32,7 +32,7 @@
     ],
     "bg": "white",
     "images": ["/my-app/jul/sunset.jpg", "/my-app/jul/apt.jpg", ""],
-    "extraImage": ["/jul/2.jpg", "/jul/3.jpg"],
+    "extraImage": ["/my-app/jul/2.jpg", "/my-app/jul/3.jpg"],
     "song": "https://p.scdn.co/mp3-preview/213afafcea2fa6b5c7e5fd71c1fd8f4adc3ffba0"
   },
   "august": {
@@ -51,8 +51,8 @@
       }
     ],
     "bg": "white",
-    "images": ["/aug/1.jpg", "/aug/2.jpg", ""],
-    "extraImage": ["/aug/3.jpg", "/aug/4.jpg"],
+    "images": ["/my-app/aug/1.jpg", "/my-app/aug/2.jpg", ""],
+    "extraImage": ["/my-app/aug/3.jpg", "/my-app/aug/4.jpg"],
     "song": "https://p.scdn.co/mp3-preview/ac72f8e00f11f24fab8bcd224a2a96569aded8f1"
   },
   "sept": {
@@ -67,8 +67,13 @@
       }
     ],
     "bg": "white",
-    "images": ["/sep/1.jpg"],
-    "extraImage": ["/sep/2.jpg", "/sep/3.jpg", "/sep/4.jpg", "/sep/5.jpg"],
+    "images": ["/my-app/sep/1.jpg"],
+    "extraImage": [
+      "/my-app/sep/2.jpg",
+      "/my-app/sep/3.jpg",
+      "/my-app/sep/4.jpg",
+      "/my-app/sep/5.jpg"
+    ],
     "song": "https://p.scdn.co/mp3-preview/b4d75e8216b4cc6879b063c72b6f61fd1bf07ad5"
   },
   "oct": {
@@ -87,8 +92,8 @@
       }
     ],
     "bg": "white",
-    "images": ["/oct/1.jpg", "/oct/2.jpg"],
-    "extraImage": ["/oct/3.jpg"],
+    "images": ["/my-app/oct/1.jpg", "/my-app/oct/2.jpg"],
+    "extraImage": ["/my-app/oct/3.jpg"],
     "song": "https://p.scdn.co/mp3-preview/f9db43c10cfab231d9448792464a23f6e6d607e7"
   },
   "nov": {
@@ -103,7 +108,7 @@
       }
     ],
     "bg": "white",
-    "images": ["/nov/1.jpg"],
+    "images": ["/my-app/nov/1.jpg"],
     "song": "https://p.scdn.co/mp3-preview/cea865adb26a7efde56277aa925d1e34d59d832c"
   },
   "dec": {
@@ -126,8 +131,8 @@
       }
     ],
     "bg": "white",
-    "images": ["/dec/1.PNG", "/dec/2.jpg", ""],
-    "extraImage": ["/dec/3.jpg", "/dec/4.jpg"],
+    "images": ["/my-app/dec/1.PNG", "/my-app/dec/2.jpg", ""],
+    "extraImage": ["/my-app/dec/3.jpg", "/my-app/dec/4.jpg"],
     "song": "https://p.scdn.co/mp3-preview/affd45c5848b4f3e009de3667e12d032a313d58f"
   },
   "jan": {
@@ -142,8 +147,12 @@
       }
     ],
     "bg": "white",
-    "images": ["/jan/1.jpg"],
-    "extraImage": ["/jan/2.jpg", "/jan/3.jpg", "/jan/4.jpg"],
+    "images": ["/my-app/jan/1.jpg"],
+    "extraImage": [
+      "/my-app/jan/2.jpg",
+      "/my-app/jan/3.jpg",
+      "/my-app/jan/4.jpg"
+    ],
     "song": "https://p.scdn.co/mp3-preview/3510f5d0d616d32706e28d403a041461ae56f5a5"
   },
   "end": {
