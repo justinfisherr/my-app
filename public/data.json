@@ -1,0 +1,162 @@
+{
+  "start": {
+    "title": {
+      "en": "Happy Valentines Day, Heeyeon",
+      "ko": "해피 발렌타인 데이, 희연"
+    },
+    "text": {
+      "en": "As our time in Bellevue comes to an end, I thought it'd be fun to look back at our time here and the love we shared",
+      "ko": "벨뷰에서의 시간이 끝나가면서, 우리가 함께 보낸 소중한 시간과 나눈 사랑을 되돌아보고 싶었어"
+    },
+    "bg": "white",
+    "images": [""]
+  },
+  "july": {
+    "title": {
+      "en": "July",
+      "ko": "7월"
+    },
+    "text": [
+      {
+        "en": "Before you came to Bellevue, I was missing you so much that it hurt. I literally prayed that you'd hurry up and arrive, and the moment you finally arrived, I just wanted to scream in joy. Seeing you roll your suitcase and your goofy smile made me want to cry. Finally, I had my baby forever.",
+        "ko": "네가 벨뷰에 오기 전까지, 너무 그리워서 마음이 아팠어. 네가 서둘러 도착하길 간절히 기도했었고, 드디어 네가 도착한 순간 내 기쁨은 말로 다 표현할 수 없었어. 네가 여행 가방을 끌며 환하게 웃는 모습을 보자마자 눈물이 흘렀어. 결국, 너는 내 영원한 사랑, 소중한 아기야."
+      },
+      {
+        "en": "We did so much in the first month too! We did all of the touristy things and even got our first apartment. I remember that searching for an apartment by myself was so painful, but when you came around, it suddenly became the most fun thing in the world. So of course, the apartment we landed on was AMAZING.",
+        "ko": "첫 달에도 우리는 정말 많은 추억을 만들었어! 관광 명소를 다 둘러보고, 첫 아파트도 구했지. 혼자서 아파트를 찾던 그 힘든 시간은 네가 함께하니 모두 즐거운 추억으로 바뀌었어. 우리가 선택한 아파트는 평생 잊지 못할 만큼 놀라웠어."
+      },
+      {
+        "en": "This month made me realize just how much you made me happy. From the moment I met you to the moment I'm writing this, you are the light of my life.",
+        "ko": "이번 달은 네가 나를 얼마나 행복하게 해줬는지를 다시 한 번 깨닫게 해줬어. 우리가 처음 만난 순간부터 지금 이 글을 쓰는 순간까지, 너는 내 삶의 빛이야."
+      }
+    ],
+    "bg": "white",
+    "images": ["/jul/sunset.jpg", "/jul/apt.jpg", ""],
+    "extraImage": ["/jul/2.jpg", "/jul/3.jpg"],
+    "song": "https://p.scdn.co/mp3-preview/213afafcea2fa6b5c7e5fd71c1fd8f4adc3ffba0"
+  },
+  "august": {
+    "title": {
+      "en": "August",
+      "ko": "8월"
+    },
+    "text": [
+      {
+        "en": "August had its ups and downs and was one of the first times we experienced real hardship. It taught me a lot about you, especially how strong you are.",
+        "ko": "8월은 기복이 있었지만, 우리가 진정한 시련을 처음 겪은 달이었어. 그 경험을 통해 네가 얼마나 강인한 사람인지, 그리고 나에게 얼마나 큰 힘이 되는지를 배웠어."
+      },
+      {
+        "en": "But we bounced back and enjoyed life as we always had. We swam a lot and went to Humane Society more times than I can count. I really loved those days — they were so fun. The idea of owning a pet with you was so exciting. Nothing is more fun than having an iced americano and enjoying the day.",
+        "ko": "하지만 우리는 다시 일어서며 늘 그래왔듯 인생을 즐겼어. 많이 수영도 하고, Humane Society에도 수없이 갔지. 그 시절은 정말 즐거웠어, 너무나 특별했으니까. 너와 함께 반려동물을 키운다는 생각은 설레임 그 자체였어. 아이스 아메리카노 한 잔과 함께하는 하루보다 더 즐거운 순간은 없어."
+      }
+    ],
+    "bg": "white",
+    "images": ["/aug/1.jpg", "/aug/2.jpg", ""],
+    "extraImage": ["/aug/3.jpg", "/aug/4.jpg"],
+    "song": "https://p.scdn.co/mp3-preview/ac72f8e00f11f24fab8bcd224a2a96569aded8f1"
+  },
+  "sept": {
+    "title": {
+      "en": "September",
+      "ko": "9월"
+    },
+    "text": [
+      {
+        "en": "September, we got fricken married!! That was such a happy day for me. I don’t say it enough, but one memory I will never forget is when my sister read your letter. Your beautiful mind and soul shone through, touching my entire family. Marrying you was the best decision I’ve ever made. You are the most beautiful, smart, and fun wife anyone could ask for.",
+        "ko": "9월, 드디어 우리는 결혼했어!! 그 날은 내게 너무 행복한 날이었어. 자주 말하지 않지만, 평생 잊지 못할 기억은 내 여동생이 네 편지를 읽었을 때야. 너의 아름다운 마음과 영혼이 우리 가족에게도 전해졌어. 너와 결혼한 건 내가 내린 최고의 결정이었어. 너는 세상에서 가장 아름답고, 똑똑하며, 유쾌한 아내야."
+      }
+    ],
+    "bg": "white",
+    "images": ["/sep/1.jpg"],
+    "extraImage": ["/sep/2.jpg", "/sep/3.jpg", "/sep/4.jpg", "/sep/5.jpg"],
+    "song": "https://p.scdn.co/mp3-preview/b4d75e8216b4cc6879b063c72b6f61fd1bf07ad5"
+  },
+  "oct": {
+    "title": {
+      "en": "October",
+      "ko": "10월"
+    },
+    "text": [
+      {
+        "en": "October, we experienced such a beautiful fall together.",
+        "ko": "10월, 우리는 함께 아름다운 가을을 만끽했어."
+      },
+      {
+        "en": "But more importantly, we had our first child!! Clover was such a gift to us in so many ways. I truly feel he brought us even closer together. Seeing you with him made me so happy; it felt like we had created a beautiful family. I still feel that joy every time I see my beautiful wife and our two kids.",
+        "ko": "더 중요한 건, 우리에게 첫 아이가 태어났다는 거야!! 클로버는 우리에게 수많은 기쁨과 사랑을 선사한 소중한 선물이었어. 그로 인해 우리 사이가 더 가까워진 걸 느껴. 너와 함께 있는 모습을 볼 때마다, 우리가 정말 아름다운 가족임을 깨달았어. 내 사랑하는 아내와 두 아이를 볼 때마다 그 행복이 가슴을 뛰게 해."
+      }
+    ],
+    "bg": "white",
+    "images": ["/oct/1.jpg", "/oct/2.jpg"],
+    "extraImage": ["/oct/3.jpg"],
+    "song": "https://p.scdn.co/mp3-preview/f9db43c10cfab231d9448792464a23f6e6d607e7"
+  },
+  "nov": {
+    "title": {
+      "en": "November",
+      "ko": "11월"
+    },
+    "text": [
+      {
+        "en": "November, I only have one photo of us, kekeke, but I want to say how touched I was that even in your hard times you made the effort to make my birthday special. No matter what, you always find a way to spoil me and make me feel cherished.",
+        "ko": "11월, 우리 사진은 한 장뿐이지만, 네가 힘든 상황 속에서도 내 생일을 특별하게 만들어주려고 애쓴 모습에 정말 감동했어. 어떤 어려움 속에서도 나를 소중하게 대해주는 너의 사랑에 늘 감사해."
+      }
+    ],
+    "bg": "white",
+    "images": ["/nov/1.jpg"],
+    "song": "https://p.scdn.co/mp3-preview/cea865adb26a7efde56277aa925d1e34d59d832c"
+  },
+  "dec": {
+    "title": {
+      "en": "December",
+      "ko": "12월"
+    },
+    "text": [
+      {
+        "en": "December, we celebrated our first Christmas together! It was the first time in ten years that I truly celebrated Christmas, and doing it with you and Clover made it incredibly special!",
+        "ko": "12월, 우리는 함께 첫 크리스마스를 축하했어! 10년 만에 진심으로 크리스마스를 즐긴 경험이었고, 너와 클로버와 함께여서 더욱 특별했어."
+      },
+      {
+        "en": "Andddddd, look at my beautiful wife at my sister's wedding! That day was truly special because my whole family got to meet you and they absolutely loved you. I feel so blessed every day that I found someone who loves my family as much as I do (maybe even more). My heart melts every time I hear you talk to my family. You truly are the perfect wife, baby.",
+        "ko": "그리고 봐, 내 아름다운 아내가 내 여동생의 결혼식에 나타난 모습! 그 날은 온 가족이 너를 만나고 모두가 너를 사랑했기에 정말 특별했어. 네가 내 가족을 나만큼 (어쩌면 그 이상으로) 아끼고 사랑해준다는 사실에 매일 축복받는 기분이야. 내 마음이 녹아내려."
+      },
+      {
+        "en": "Oh, and we got Konju, but I don't have a picture of us together with her. Remember how stressed we were? But now our family is even bigger and more beautiful. Fun fact: this photo was taken on the day we welcomed Konju.",
+        "ko": "아, 그리고 우리는 콘주를 맞이했지만, 그녀와 함께 찍은 사진은 없어. 그때 우리가 얼마나 스트레스를 받았던지 기억나? 하지만 이제 우리 가족은 더 크고, 더 아름다워졌어. 재미있는 사실은 이 사진이 우리가 콘주를 맞이한 날 찍힌 거야."
+      }
+    ],
+    "bg": "white",
+    "images": ["/dec/1.PNG", "/dec/2.jpg", ""],
+    "extraImage": ["/dec/3.jpg", "/dec/4.jpg"],
+    "song": "https://p.scdn.co/mp3-preview/affd45c5848b4f3e009de3667e12d032a313d58f"
+  },
+  "jan": {
+    "title": {
+      "en": "January",
+      "ko": "1월"
+    },
+    "text": [
+      {
+        "en": "January was Aegi's birthday! I hope I made it special. I want you to know that I will always strive to create special days for you. I promise I'll never take you for granted, always.",
+        "ko": "1월은 애기의 생일이었어! 그 날을 특별하게 만들어줬길 바라며, 앞으로도 너에게 계속 특별한 날들을 선물할게. 너를 결코 당연하게 여기지 않겠다는 걸 약속해."
+      }
+    ],
+    "bg": "white",
+    "images": ["/jan/1.jpg"],
+    "extraImage": ["/jan/2.jpg", "/jan/3.jpg", "/jan/4.jpg"],
+    "song": "https://p.scdn.co/mp3-preview/3510f5d0d616d32706e28d403a041461ae56f5a5"
+  },
+  "end": {
+    "title": {
+      "en": "The End",
+      "ko": "끝"
+    },
+    "text": {
+      "en": "I love you, Heeyeon. Thanks for being my partner in life and giving me something to look forward to every day -- being with you. I'm so excited to our move back to cali, I know it will be everything we think it will be. Life with you has been oh so amazing and I can't wait to see what's next for us.",
+      "ko": "희연, 사랑해. 내 인생의 동반자가 되어 주고 매일 너와 함께함으로써 새로운 희망을 주어서 정말 고마워. 우리가 캘리포니아로 돌아가는 일이 너무 기대돼. 그곳은 우리가 상상했던 모든 것 이상이 될 거라 믿어. 너와 함께한 삶은 정말 놀라웠고, 앞으로 우리에게 펼쳐질 미래가 너무 기대돼."
+    },
+    "bg": "white",
+    "images": ["us.webp"],
+    "song": "https://p.scdn.co/mp3-preview/3620001ba72f0d482915a5be5340e052e23cf298"
+  }
+}
