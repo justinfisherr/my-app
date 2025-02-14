@@ -61,7 +61,7 @@ const buttonVariants = {
   tap: { scale: 0.95 },
 };
 
-export default function Page() {
+export default async function Page() {
   const searchParams = useSearchParams();
   const router = useRouter();
   const [lang, setLang] = useState("en"); // Default language is English
