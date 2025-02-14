@@ -31,7 +31,7 @@
       }
     ],
     "bg": "white",
-    "images": ["/jul/sunset.jpg", "/jul/apt.jpg", ""],
+    "images": ["/my-app/jul/sunset.jpg", "/my-app/jul/apt.jpg", ""],
     "extraImage": ["/jul/2.jpg", "/jul/3.jpg"],
     "song": "https://p.scdn.co/mp3-preview/213afafcea2fa6b5c7e5fd71c1fd8f4adc3ffba0"
   },
@@ -156,7 +156,7 @@
       "ko": "희연, 사랑해. 내 인생의 동반자가 되어 주고 매일 너와 함께함으로써 새로운 희망을 주어서 정말 고마워. 우리가 캘리포니아로 돌아가는 일이 너무 기대돼. 그곳은 우리가 상상했던 모든 것 이상이 될 거라 믿어. 너와 함께한 삶은 정말 놀라웠고, 앞으로 우리에게 펼쳐질 미래가 너무 기대돼."
     },
     "bg": "white",
-    "images": ["us.webp"],
+    "images": ["/my-app/us.webp"],
     "song": "https://p.scdn.co/mp3-preview/3620001ba72f0d482915a5be5340e052e23cf298"
   }
 }
